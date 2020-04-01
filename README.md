@@ -1,1 +1,1 @@
-# rurika
+# rurika portfolio
